@@ -1,4 +1,6 @@
 # Doodle
+<div align=center><img src="https://github.com/XinyiYan/Doodle/blob/master/src/screenshot.png"/></div>
+
 This sketching program includes:
 
 - a menu bar with a flie menu supporting saving & loading bin files
